@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#my-process)
+- [Info](#Info)
   - [Why I did this](#why-I-did-this)
   - [Continued development](#continued-development)
 - [Author](#mircodev)
@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Live Site URL: [https://qr-code-component-eosin-gamma.vercel.app/](https://qr-code-component-eosin-gamma.vercel.app/)
 
-### My process
+## Info
 
 ### Built with
 
@@ -39,5 +39,5 @@ Next thing I need to implement is some mobile visual adjustment
 - mircodev
 - Frontend Mentor - [@mircodg](https://www.frontendmentor.io/profile/mircodg)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
